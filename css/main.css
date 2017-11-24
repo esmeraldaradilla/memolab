@@ -1,0 +1,33 @@
+body{
+  background: gray;
+}
+br{
+  border: 2px solid black;
+}
+div{
+  background-image: url("../assets/images/logo_lab.png");
+  background-position: center;
+  background-size: cover;
+}
+.card{
+  border: 1px solid black;
+  float: right;
+  height: 200px;
+  margin: 4% 7%;
+  width: 18%;
+}
+.card-1:hover {
+  background-image: url("../assets/images/cabin_720.png");
+}
+.card-2:hover {
+  background-image: url("../assets/images/cake_720.png");
+}
+.card-3:hover {
+  background-image: url("../assets/images/circus_720.png");
+}
+.card-4:hover {
+  background-image: url("../assets/images/game_720.png");
+}
+.card-comodin:hover {
+  background-image: url(http://cdn5.dibujos.net/dibujos/pintar/mandala-flor-de-loto-colorear.jpg);
+}
